@@ -6,7 +6,7 @@ from db import DatabaseConnection
 from api.models import User, Answer, Questions
 from flask_jwt_extended import create_access_token, JWTManager, jwt_required, get_jwt_identity
 from werkzeug.security import generate_password_hash, check_password_hash
-
+#something
 app = Flask(__name__)
 jwt = JWTManager(app)
 app.config['JWT_SECRET_KEY'] = 'KenG0W@Da4!'
