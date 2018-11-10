@@ -13,7 +13,7 @@ class DatabaseConnection:
 
         try:
             self.connection = psycopg2.connect(
-                dbname='d62ol3dfvvnubk', user='rkgsgupxsprnfx', host='ec2-174-129-236-147.compute-1.amazonaws.com', password='77c80267f50cfc06bf5f8d89b27bf08df304c9c11c6c70c6337193fa77605a12', port='5432'
+                dbname='ddhe72t8a8473k', user='casrdwnqztpfjp', host='ec2-23-23-101-25.compute-1.amazonaws.com', password='7d28e10dfc21e8c32555be04944aec2b5763a18f124236395129befb00319024', port='5432'
             )
 
             self.connection.autocommit = True
