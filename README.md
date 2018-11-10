@@ -2,7 +2,7 @@
 
 StackOverflow-lite is a platform where people can ask questions and provide answers.
 
-[![Build Status](https://travis-ci.org/KengoWada/Stackoverflow-lite-API.svg?branch=api)](https://travis-ci.org/KengoWada/Stackoverflow-lite-API) [![Maintainability](https://api.codeclimate.com/v1/badges/6cdbe0208a6102b00787/maintainability)](https://codeclimate.com/github/KengoWada/Stackoverflow-lite-API/maintainability) [![Coverage Status](https://coveralls.io/repos/github/KengoWada/Stackoverflow-lite-API/badge.svg?branch=api)](https://coveralls.io/github/KengoWada/Stackoverflow-lite-API?branch=api)
+[![Build Status](https://travis-ci.org/patrickf949/stackoverflow.svg?branch=deploy)](https://travis-ci.org/patrickf949/stackoverflow)[![Maintainability](https://api.codeclimate.com/v1/badges/6cdbe0208a6102b00787/maintainability)](https://codeclimate.com/github/KengoWada/Stackoverflow-lite-API/maintainability) [![Coverage Status](https://coveralls.io/repos/github/KengoWada/Stackoverflow-lite-API/badge.svg?branch=api)](https://coveralls.io/github/KengoWada/Stackoverflow-lite-API?branch=api)
 
 ### Getting Started
 
